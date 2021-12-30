@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abu Hanif
 #### Self-taught programmer
-![Self-taught programmer](https://scontent.fdac1-1.fna.fbcdn.net/v/t1.6435-9/117036231_299327751318041_3174540646048862613_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGpeEI76fdNgmq-TLhEiicEZdaitAVsvpxl1qK0BWy-nKG_QanXM5ddchVKOGAHS7dtOL4wMFJ80F7T3zwZzIlt&_nc_ohc=p6DvA1qRW2kAX9FlEbl&_nc_ht=scontent.fdac1-1.fna&oh=00_AT-HSzVpo6aEMgIk16cZiTYxUpDBtNYEJ15TcX_XGEgtrg&oe=61F47A22)
+![Self-taught programmer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 I'm passionate self-taught engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -26,4 +26,4 @@ Skills:  JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hn-27)  
 
-![Profile views](https://gpvc.arturio.dev/hn-27)   
+![Profile views](https://gpvc.arturio.dev/hn-27)  
