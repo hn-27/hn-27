@@ -1,9 +1,13 @@
-### Hi there 👋, I'm Abu Hanif
+## Hi there 👋, 
+### I'm Abu Hanif
 #### Self-taught programmer
 
 I'm passionate self-taught engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Skills:  JS / HTML / CSS
+##### Skills:
+✅JS
+✅HTML
+✅CSS
 
 - 🔭 I’m currently working on a blog website 
 - 🌱 I’m currently learning python 
